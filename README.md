@@ -1,5 +1,7 @@
 Name: P.Amruta Varsha Yadav
+
 Oasis Infobyte Data Science Internship
+
 Task: Email spam Detection with Machine Learning
 
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
